@@ -1,0 +1,29 @@
+
+
+- [x] You test functionalities of a software on all 3 layres:
+* UI/FronetEnd, DB and API.
+* FrontEnd testers
+* BackEnd (DB&API) testers
+* Full-stack testers -> know how to test both FrontEnd and BackEnd -> YOU
+*
+* example: file upload
+*
+*       UI/FronrEnd -> go to the app, and try to upload files + take screenshot
+*
+*       DB -> if the files are stored in the correct category?
+*
+*       API -> if the files are delivered to the DB successfully or not
+
+SOFTWARE
+- [x] Software are designed to help people to perform activities.
+TYPES OF SOFTWARE
+1. System Software (operating system) (OS)——linux,ios,windows
+2. Application software
+* Web based
+* Mobile app
+* Desktop app
+* Hybrid app
+
+- [x] Functional: Functionality of a software describes what a software should do, or should not do.
+Non-Functional: Non-functional specify how the software should do behave.
+
